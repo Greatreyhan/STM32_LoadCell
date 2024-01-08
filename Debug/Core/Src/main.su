@@ -1,0 +1,8 @@
+../Core/Src/main.c:72:5:main	48	static
+../Core/Src/main.c:117:6:SystemClock_Config	88	static
+../Core/Src/main.c:163:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:205:6:init_weight	168	static
+../Core/Src/main.c:225:6:init_calibration	144	static
+../Core/Src/main.c:246:7:measure_channel	120	static
+../Core/Src/main.c:259:7:measure_weight	16	static
+../Core/Src/main.c:281:6:Error_Handler	4	static,ignoring_inline_asm
